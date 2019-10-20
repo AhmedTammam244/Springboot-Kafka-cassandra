@@ -20,3 +20,6 @@ This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/Str
 - `http://localhost:8081/kafka/Saly`
 - `http://localhost:8081/kafka/MEmy`
 
+# change setting of application.properties 
+server.port=8081
+spring.data.cassandra.keyspace-name=kafka
