@@ -1,4 +1,4 @@
-# Spring Boot with Kafka Example
+# Spring Boot with Kafka Example and cassandra
 
 This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/String message from Kafka topics
 ## Start Zookeeper
@@ -19,3 +19,4 @@ This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/Str
 - `http://localhost:8081/kafka/Alaa`
 - `http://localhost:8081/kafka/Saly`
 - `http://localhost:8081/kafka/MEmy`
+
