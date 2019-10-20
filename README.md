@@ -12,8 +12,8 @@ This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/Str
 - `bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic Kafka_Example_json`
 
 # change setting of application.properties 
--`server.port=8081`
--`spring.data.cassandra.keyspace-name=kafka`
+- `server.port=8081`   
+- `spring.data.cassandra.keyspace-name=kafka`
 
 
 ## Publish message via WebService
